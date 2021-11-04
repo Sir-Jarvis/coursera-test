@@ -4,8 +4,8 @@
     'use strict';
     let x = 'hello';
 
-    angular.module('MyFirstApp', [])
-
+    angular.module('myFirstApp', [])
+    
     .controller('MyFirstController', function () {
 
     });
